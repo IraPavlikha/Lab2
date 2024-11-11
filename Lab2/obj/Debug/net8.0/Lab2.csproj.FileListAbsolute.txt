@@ -1,0 +1,15 @@
+/Users/irapavlikha/Desktop/OOP/Lab2/Lab2/bin/Debug/net8.0/Lab2
+/Users/irapavlikha/Desktop/OOP/Lab2/Lab2/bin/Debug/net8.0/Lab2.deps.json
+/Users/irapavlikha/Desktop/OOP/Lab2/Lab2/bin/Debug/net8.0/Lab2.runtimeconfig.json
+/Users/irapavlikha/Desktop/OOP/Lab2/Lab2/bin/Debug/net8.0/Lab2.dll
+/Users/irapavlikha/Desktop/OOP/Lab2/Lab2/bin/Debug/net8.0/Lab2.pdb
+/Users/irapavlikha/Desktop/OOP/Lab2/Lab2/obj/Debug/net8.0/Lab2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/irapavlikha/Desktop/OOP/Lab2/Lab2/obj/Debug/net8.0/Lab2.AssemblyInfoInputs.cache
+/Users/irapavlikha/Desktop/OOP/Lab2/Lab2/obj/Debug/net8.0/Lab2.AssemblyInfo.cs
+/Users/irapavlikha/Desktop/OOP/Lab2/Lab2/obj/Debug/net8.0/Lab2.csproj.CoreCompileInputs.cache
+/Users/irapavlikha/Desktop/OOP/Lab2/Lab2/obj/Debug/net8.0/Lab2.sourcelink.json
+/Users/irapavlikha/Desktop/OOP/Lab2/Lab2/obj/Debug/net8.0/Lab2.dll
+/Users/irapavlikha/Desktop/OOP/Lab2/Lab2/obj/Debug/net8.0/refint/Lab2.dll
+/Users/irapavlikha/Desktop/OOP/Lab2/Lab2/obj/Debug/net8.0/Lab2.pdb
+/Users/irapavlikha/Desktop/OOP/Lab2/Lab2/obj/Debug/net8.0/Lab2.genruntimeconfig.cache
+/Users/irapavlikha/Desktop/OOP/Lab2/Lab2/obj/Debug/net8.0/ref/Lab2.dll
